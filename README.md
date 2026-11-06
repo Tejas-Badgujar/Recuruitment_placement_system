@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Recruitment & Placement Management System (RPMS)
 
 Python + MySQL console application.
@@ -54,3 +55,6 @@ Python + MySQL console application.
   actual password configured on your machine.
 - For standalone MySQL, use the password configured during installation.
 - Never share your `.env` file or commit it to Git.
+=======
+# Recuruitment_placement_system
+>>>>>>> 8a6000978d2f4eb33f2d4e00c659d707ee6358c0
